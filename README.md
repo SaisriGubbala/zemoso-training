@@ -1,5 +1,5 @@
-This is the Git Assignment
-The following are the necessary steps to complete it
+#This is the Git Assignment
+#The following are the necessary steps to complete it
 1.Sign up for GitHub.
 2.Create repository zemoso-training in your account.
 3.Create a local git repository in your home folder - first_git_repo
